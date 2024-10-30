@@ -1,0 +1,1 @@
+item replace entity @a[tag=chef] container.8 with minecraft:paper[minecraft:item_name="水手"]
